@@ -1,0 +1,46 @@
+```
+# Dependencies
+vendor/
+
+# Logs
+logs/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Compiled and build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.out
+dist/
+build/
+target/
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.gradle/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+```
